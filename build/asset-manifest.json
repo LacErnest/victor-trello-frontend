@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce8fc1c1.chunk.css",
+    "main.js": "/static/js/main.7b54ee18.chunk.js",
+    "main.js.map": "/static/js/main.7b54ee18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c44a3f55.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c44a3f55.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.727bd288.chunk.js": "/static/js/2.727bd288.chunk.js",
+    "static/js/2.727bd288.chunk.js.map": "/static/js/2.727bd288.chunk.js.map",
+    "static/js/3.e5c95cf5.chunk.js": "/static/js/3.e5c95cf5.chunk.js",
+    "static/js/3.e5c95cf5.chunk.js.map": "/static/js/3.e5c95cf5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.ce8fc1c1.chunk.css.map": "/static/css/main.ce8fc1c1.chunk.css.map",
+    "static/js/2.727bd288.chunk.js.LICENSE.txt": "/static/js/2.727bd288.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/search.293b4922.svg",
+    "static/media/add.cb3d7757.svg": "/static/media/add.cb3d7757.svg",
+    "static/media/auth-left-logo.ff7c7688.svg": "/static/media/auth-left-logo.ff7c7688.svg",
+    "static/media/auth-right-logo.216cec7b.svg": "/static/media/auth-right-logo.216cec7b.svg",
+    "static/media/bambello-homepage-product.b5e40400.png": "/static/media/bambello-homepage-product.b5e40400.png",
+    "static/media/board.5179235c.svg": "/static/media/board.5179235c.svg",
+    "static/media/chart.5992d3ad.svg": "/static/media/chart.5992d3ad.svg",
+    "static/media/dropdown.9b95f61e.svg": "/static/media/dropdown.9b95f61e.svg",
+    "static/media/elipsis.c67cff18.svg": "/static/media/elipsis.c67cff18.svg",
+    "static/media/exclamation-lg.13426495.svg": "/static/media/exclamation-lg.13426495.svg",
+    "static/media/hero.e8878a54.png": "/static/media/hero.e8878a54.png",
+    "static/media/home-logo.10647ab8.svg": "/static/media/home-logo.10647ab8.svg",
+    "static/media/home.c81c889f.svg": "/static/media/home.c81c889f.svg",
+    "static/media/loader.4ce56a5f.svg": "/static/media/loader.4ce56a5f.svg",
+    "static/media/login-signup-logo.1c04d7df.svg": "/static/media/login-signup-logo.1c04d7df.svg",
+    "static/media/notific-bell.6bbbe799.svg": "/static/media/notific-bell.6bbbe799.svg",
+    "static/media/paperclip-solid.8d140ed2.svg": "/static/media/paperclip-solid.8d140ed2.svg",
+    "static/media/person.c47b10f3.svg": "/static/media/person.c47b10f3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c44a3f55.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.727bd288.chunk.js",
+    "static/css/main.ce8fc1c1.chunk.css",
+    "static/js/main.7b54ee18.chunk.js"
+  ]
+}
